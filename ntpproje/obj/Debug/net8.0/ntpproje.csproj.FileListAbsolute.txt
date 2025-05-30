@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\ntpproje\obj\Debug\net8.0\ntpproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ntpproje\obj\Debug\net8.0\ntpproje.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ntpproje\obj\Debug\net8.0\ntpproje.AssemblyInfo.cs
+C:\Users\USER\source\repos\ntpproje\obj\Debug\net8.0\ntpproje.csproj.CoreCompileInputs.cache
